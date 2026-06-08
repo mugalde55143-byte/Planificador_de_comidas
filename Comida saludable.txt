@@ -1,0 +1,36 @@
+Ensalada:
+- Lechuga
+- Tomate
+- Pepino
+- Zanahoria
+- Limón
+
+Pollo a la plancha:
+- Pechuga de pollo
+- Sal
+- Pimienta
+- Ajo
+- Limón
+
+Avena:
+- Avena
+- Leche o agua
+- Fruta (plátano, manzana, fresas)
+
+Arroz con verduras:
+- Arroz integral o normal
+- Zanahoria
+- Calabaza
+- Brócoli
+
+Sándwich saludable:
+- Pan integral
+- Jamón
+- Lechuga
+- Tomate
+- Aguacate
+
+Yogur con fruta:
+- Yogur natural
+- Fruta (fresas, plátano, manzana)
+- Granola 
