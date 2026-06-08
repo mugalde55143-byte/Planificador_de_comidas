@@ -1,0 +1,51 @@
+Hamburguesa:
+- Pan de hamburguesa
+- Carne molida
+- Queso
+- Lechuga
+- Jitomate
+- Catsup
+- Mayonesa
+
+
+Pizza:
+- Masa de pizza
+- Salsa de tomate
+- Queso mozzarella
+- Pepperoni o jamón
+
+
+Hot Dog:
+- Pan para hot dog
+- Salchicha
+- Catsup
+- Mostaza
+- Mayonesa
+- Cebolla
+
+
+Quesadillas:
+- Tortillas
+- Queso Oaxaca o manchego
+- Jamón 
+- Salsa
+
+
+Nuggets de pollo:
+- Pollo
+- Pan molido
+- Huevo
+- Harina
+
+
+Burritos:
+- Tortilla grande de harina
+- Frijoles
+- Carne o pollo
+- Arroz
+- Queso
+
+
+Spaghetti:
+- Pasta
+- Salsa de tomate
